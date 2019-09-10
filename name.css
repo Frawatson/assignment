@@ -1,0 +1,20 @@
+* {
+    background-color: blanchedalmond;
+    font-size: 32;
+    margin: 0;
+}
+
+h1,
+h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    padding-top: 37.5px;
+    padding-bottom: 37.5px;
+
+    background-color: blue;
+    color:whitesmoke;
+    font-size: 32;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center
+}
